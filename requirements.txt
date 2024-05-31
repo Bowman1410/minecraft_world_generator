@@ -1,0 +1,24 @@
+# NLP dependencies
+transformers==4.18.0
+torch==1.11.0
+sentencepiece==0.1.96
+
+# Procedural generation and Minecraft API interaction
+minecraft-data==1.17
+
+# Data processing and utility libraries
+numpy==1.21.6
+pandas==1.3.5
+scikit-learn==1.0.2
+
+# Jupyter notebook for experimentation
+jupyter==1.0.0
+
+# Testing libraries
+pytest==7.1.2
+pytest-cov==3.0.0
+
+# Other utilities
+requests==2.27.1
+tqdm==4.64.0
+pyyaml==6.0
